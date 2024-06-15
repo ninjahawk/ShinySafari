@@ -11,7 +11,6 @@ A fun game where you can catch shiny Pokémon by tapping the Pokéball. The shin
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Credits](#credits)
 - [License](#license)
 
@@ -37,11 +36,6 @@ To install and run the game locally:
 - Slide the Pokéball by touching and dragging it.
 - Release the Pokéball to see if you catch a shiny Pokémon.
 - The score of shiny Pokémon caught will be displayed at the top of the screen when a shiny is caught.
-
-## Screenshots
-
-![Shiny Pokémon](3FDAF7BC-7FBB-47ED-819F-0473A70DAED7.webp)
-![Non-Shiny Pokémon](F4BA218B-36C2-416B-A217-329EB6FF6EEC.png)
 
 ## Credits
 
