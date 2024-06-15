@@ -2,7 +2,7 @@
 
 A fun game where you can catch shiny Pokémon by tapping the Pokéball. The shiny odds are set to 1/10.
 
-##Play on netlify
+## Play on netlify
 
 [Play from your browser!](https://velvety-pavlova-82d2c5.netlify.app/)
 
