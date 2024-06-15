@@ -1,4 +1,4 @@
-# Shiny Safari Game
+# Shiny Safari Pokemon Game
 
 A fun game where you can catch shiny Pokémon by tapping the Pokéball. The shiny odds are set to 1/10.
 
