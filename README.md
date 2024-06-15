@@ -45,7 +45,7 @@ To install and run the game locally:
 
 ## Credits
 
-- Developed by [Your Name](https://github.com/your-username)
+- Developed by [ninjahawk]([https://github.com/your-username](https://github.com/ninjahawk))
 - Pokémon images are property of their respective owners.
 
 ## License
